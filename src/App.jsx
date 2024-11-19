@@ -2,7 +2,7 @@
 import imagen0 from './imagenes/rey_atanagildo.png';
 import imagen1 from './imagenes/rey_leogivildo.png';
 import imagen2 from './imagenes/rey_sisebuto.png';
-import './App.css'
+import './miCss.css'
 
 function App() {
   const nombres = ['Atanagildo', 'Leovigildo', 'Sisebuto'];

@@ -1,0 +1,21 @@
+.contenedor{
+    display: flex ;
+    justify-content: space-evenly;
+    
+    
+   }
+.caja{
+    width: 30%;
+    background-color: lightblue;
+    padding: 12px;
+    margin: 70px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #888;
+    font-size: 2em;
+    color: black;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
